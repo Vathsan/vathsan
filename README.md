@@ -8,21 +8,21 @@ I am confident working with Java, Python, SQL, SOAP, REST, HTML, and CSS. I’ve
 
 ### Highlights of Skills
 
--3 years of experience in developing and supporting enterprise-level integration solutions hosted on Cloud and On-premise technologies
--Worked on multiple customer engagements to fulfill their requirements using the WSO2 product stack
--Ability to effectively analyze logs, thread dumps, heap dumps and tcp dumps to debug issues
--Delivered webinars, screencast and product demos of the core integration product, WSO2 Micro Integrator
--Applied best software engineering practices and contributed to develop products, especially in the aspects of distributed computing, enterprise integration, API management and microservices
+- 3 years of experience in developing and supporting enterprise-level integration solutions hosted on Cloud and On-premise technologies
+- Worked on multiple customer engagements to fulfill their requirements using the WSO2 product stack
+- Ability to effectively analyze logs, thread dumps, heap dumps and tcp dumps to debug issues
+- Delivered webinars, screencast and product demos of the core integration product, WSO2 Micro Integrator
+- Applied best software engineering practices and contributed to develop products, especially in the aspects of distributed computing, enterprise integration, API management and microservices
 
 ### How I work with others
 Checkout my interactions with fellow developers through:
 
--[Pull Requests](https://github.com/wso2/product-microgateway/pull/2212)
--Logging issues for future developement
--Thoughtful commit messages
+- [Pull Requests](https://github.com/wso2/product-microgateway/pull/2212)
+- Logging issues for future developement
+- Thoughtful commit messages
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vathsan&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vathsan&langs_count=5&theme=tokyonight)]()
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vathsan&langs_count=5&theme=tokyonight)]() -->
 
 <!--
 **Vathsan/vathsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
