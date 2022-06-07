@@ -22,7 +22,7 @@ Checkout my interactions with fellow developers through:
 - Thoughtful commit messages
 
 Find me elsewhere
-[![img](https://github.com/Vathsan/vathsan/blob/main/linkedin.png)](https://www.linkedin.com/in/vathsan/)
+[![linkedin.png](https://github.com/Vathsan/vathsan/blob/main/linkedin.png)](https://www.linkedin.com/in/vathsan/)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vathsan&count_private=true&theme=tokyonight&showicons=true)]()
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vathsan&langs_count=5&theme=tokyonight)]() -->
