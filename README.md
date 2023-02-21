@@ -11,15 +11,17 @@ I am confident working with Java, Python, SQL, SOAP, REST, HTML, and CSS. I’ve
 - 3 years of experience in developing and supporting enterprise-level integration solutions hosted on Cloud and On-premise technologies
 - Worked on multiple customer engagements to fulfill their requirements using the WSO2 product stack
 - Ability to effectively analyze logs, thread dumps, heap dumps and tcp dumps to debug issues
-- Delivered webinars, screencast and product demos of the core integration product, WSO2 Micro Integrator
-- Applied best software engineering practices and contributed to develop products, especially in the aspects of distributed computing, enterprise integration, API management and microservices
+- Hands on experience building CI/CD pipeline to build and deploy code changes to hybrid cloud (AWS EKS)
+- Hands on experience training CNNs, to classify land scenes and supervised models to predict home values 
+- Experience in handling big data, from data cleaning to making prediction models 
+- Applied best software engineering practices and contributed to develop products, especially in the aspects of distributed computing, enterprise integration, API management and microservices 
 
 ### How I work with others
 Checkout my interactions with fellow developers through:
 
 - [Pull Requests](https://github.com/wso2/product-microgateway/pull/2212)
-- Logging issues for future developement
-- Thoughtful commit messages
+- [Logging issues for future developement] (https://github.com/issues)
+- [Thoughtful commit messages] (https://github.com/wso2-extensions/esb-connector-kafka/pull/55/commits)
 
 Find me elsewhere
 
