@@ -4,17 +4,18 @@ I am a bright and highly-motivated person who loves solving problems and working
 
 Now I am working on my graduate studies at University of Alberta, focusing on using these skills to build deep learning algorithms that align with my values. Be that harnessing human potential through accessible applications, advancing connected devices technology, or protecting our environment.
 
-I am confident working with Java, Python, SQL, SOAP, REST, HTML, and CSS. I’ve also worked with Go and C++. 
+I am confident working with Java, Python, SQL, SOAP, REST, HTTP, and Micro Services. I’ve also worked with Go and C++. 
 
 ### Highlights of Skills
 
 - 3 years of experience in developing and supporting enterprise-level integration solutions hosted on Cloud and On-premise technologies
-- Worked on multiple customer engagements to fulfill their requirements using the WSO2 product stack
-- Ability to effectively analyze logs, thread dumps, heap dumps and tcp dumps to debug issues
-- Hands on experience building CI/CD pipeline to build and deploy code changes to hybrid cloud (AWS EKS)
-- Hands on experience training CNNs, to classify land scenes and supervised models to predict home values 
+- Obtained NVIDIA DLI  certificates in recognition of completing Deep Learning and Accelerated Computing workshops
+- Hands on experience training CNN, RNN and supervised models to solve different problems, such as Land Use Classification, Sign Language Classification, Headline Prediction and Home Value Prediction
 - Experience in handling big data, from data cleaning to making prediction models 
+- Hands on experience building CI/CD pipeline to build and deploy code changes to hybrid cloud (AWS EKS)
 - Applied best software engineering practices and contributed to develop products, especially in the aspects of distributed computing, enterprise integration, API management and microservices 
+- Ability to effectively analyze logs, thread dumps, heap dumps and tcp dumps to debug issues
+- Worked on multiple customer engagements to fulfill their requirements using the WSO2 product stack
 
 ### How I work with others
 Checkout my interactions with fellow developers through:
