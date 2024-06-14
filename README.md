@@ -20,7 +20,7 @@ I am confident working with Java, Python, SQL, SOAP, REST, HTTP, and Micro Servi
 ### How I work with others
 Checkout my interactions with fellow developers through:
 
-- [Pull Requests]([https://github.com/wso2/product-microgateway/pull/2212](https://github.com/pulls?q=is%3Apr+author%3AVathsan+archived%3Afalse+is%3Aclosed))
+- [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AVathsan+archived%3Afalse+is%3Aclosed)
 - [Logging issues for future developement] (https://github.com/issues)
 - [Thoughtful commit messages] (https://github.com/wso2-extensions/esb-connector-kafka/pull/55/commits)
 
